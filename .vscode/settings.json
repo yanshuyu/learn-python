@@ -1,4 +1,5 @@
 {
     "python.pythonPath": "C:\\Python37\\python37.exe",
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "editor.cursorBlinking": "smooth"
 }
