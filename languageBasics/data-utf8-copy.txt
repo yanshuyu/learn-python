@@ -1,0 +1,4 @@
+<xml>
+text=hello world
+text=你好 世界
+</xml>
